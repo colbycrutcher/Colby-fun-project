@@ -1,2 +1,4 @@
-package src;public class Methods {
+package src;
+
+public class Methods {
 }
